@@ -1,7 +1,10 @@
 📊 Dashboard Overview
 
-![Uploading image.png…]()
-![Uploading image.png…]()
+
+<img width="1252" height="737" alt="image" src="https://github.com/user-attachments/assets/9fce85f8-e31b-4a44-8fe4-e0e439362e6b" />
+
+<img width="1260" height="731" alt="image" src="https://github.com/user-attachments/assets/aa0f8cd3-f788-4ae5-8988-e24f172fe479" />
+
 
 
 
